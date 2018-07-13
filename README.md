@@ -1,2 +1,2 @@
 # krishnakumarmoorthy.github.io
-Learning and implementing
+Bash script to kill all the processes running in python except latest process
